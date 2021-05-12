@@ -18,6 +18,12 @@
 - Vivado・Vivado HLSを用いたFPGAの開発(高専の卒業研究)  
 
 # 作ったもの
+- ふとももbot(Futomomo bot)
+メッセージに応じた太ももの画像を送信するLINEのbot  
+追加はこちら[here](https://line.me/R/ti/p/%40hdi2947s)
+<br>
+<img src="https://user-images.githubusercontent.com/16555696/108971857-19992080-76c6-11eb-898b-4a0bf3331d72.jpg" alt="ふとももbot" width="400"/>
+
 - [音ゲーの譜面画像生成Webアプリ](https://sekai-sus-2img.vercel.app/)
 - [高専ロボコン2018年で使用したテーブルの位置の把握とペットボトルの状態判定](https://github.com/k0tayan/PathPlanning)
 - [LINEのデコ文字変換](https://github.com/k0tayan/LineEmoji)
