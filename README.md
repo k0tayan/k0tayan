@@ -24,7 +24,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/16555696/108971857-19992080-76c6-11eb-898b-4a0bf3331d72.jpg" alt="ふとももbot" width="400"/>
 
-- [音ゲーの譜面画像生成Webアプリ](https://sekai-sus-2img.vercel.app/)
+- [音ゲーの譜面画像生成Webアプリ](https://github.com/k0tayan/SekaiSUS2img)
 - [高専ロボコン2018年で使用したテーブルの位置の把握とペットボトルの状態判定](https://github.com/k0tayan/PathPlanning)
 - [LINEのデコ文字変換](https://github.com/k0tayan/LineEmoji)
 - [LINEの脱獄Tweak](https://github.com/k0tayan/LINNE)
