@@ -1,7 +1,6 @@
-# kotayan(こたやん)
-2000年生まれ  
-日本人  
-高専卒業→(private)
+# k0tayan(こたやん)
+Japanese  
+National Institute of Technology, XX College→(private)
 
 ## Links
 - [Blog](https://www.kotayan.xyz/)  
@@ -11,9 +10,11 @@
 - 高専ロボコン程度のロボットの制御プログラム及び回路の開発
   - C++・MicroPythonを用いたマイコンを用いた工作(Arduino, Mbed, ESP32, STM32)  
   - OpenCVを用いた画像処理  
-- Pythonを用いた簡単なWebアプリの開発(Flask, Django)、LINE Botの作成  
-- 逆アセンブラや動的解析ツールFridaを用いたUnity製ゲームのリバースエンジニアリング
-  - 巷で出回っているModAPKの解析   
+- Pythonを用いた簡単なWebアプリの開発(Flask, FastAPI)、LINE Bot/Discord Botの開発  
+- Unity製ゲームのリバースエンジニアリング
+  - 巷で出回っているModAPKの解析
+  - 逆アセンブラ(Ghidra)
+  - 動的解析(Frida) 
 - iOSにおけるいわゆる脱獄Tweakの開発  
 - Vivado・Vivado HLSを用いたFPGAの開発(高専の卒業研究)  
 
