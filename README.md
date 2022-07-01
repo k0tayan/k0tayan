@@ -1,6 +1,6 @@
 # k0tayan(こたやん)
 Japanese  
-National Institute of Technology, XX College→(private)
+National Institute of Technology, XX College, Advanced Course
 
 ## Links
 - [Blog](https://www.kotayan.xyz/)  
