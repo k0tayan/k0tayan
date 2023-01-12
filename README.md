@@ -23,7 +23,6 @@
 - [ふとももbot(Futomomo bot)](https://github.com/k0tayan/futomomo-bot)[2017~2022]  
   - メッセージに応じた太ももの画像を送信するLINEのbot  
   - ~~追加は[こちら](https://line.me/R/ti/p/%40hdi2947s)~~
-  <img src="https://user-images.githubusercontent.com/16555696/108971857-19992080-76c6-11eb-898b-4a0bf3331d72.jpg" alt="ふとももbot" width="400"/>
 - [音ゲーの譜面画像生成Webアプリ](https://github.com/PurplePalette/sekai-sus-2-img)[2021~2022]
 - [高専ロボコン2018年で使用したテーブルの位置の把握と機械学習によるペットボトルの状態判定](https://github.com/k0tayan/PathPlanning)[2018]
 - [LINEのデコ文字変換ライブラリ](https://github.com/k0tayan/LineEmoji)[2018]
