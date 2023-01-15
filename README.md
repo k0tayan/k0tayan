@@ -4,6 +4,10 @@
 - [Blog](https://www.kotayan.xyz/)  
 - [HackerOne](https://hackerone.com/kotayan)
 
+## Works
+- 小学生向けプログラミング教室講師[2022, 4~]
+- 合同会社DMM.com サマーインターンシップ セキュリティコース[2021, 8~9]
+
 ## Skill
 - 高専ロボコン程度のロボットの制御プログラム及び回路の開発
   - C++・MicroPythonを用いたマイコンを用いた工作(Arduino, Mbed, ESP32, STM32) 
@@ -22,10 +26,12 @@
 ## Project
 - [ふとももbot(Futomomo bot)](https://github.com/k0tayan/futomomo-bot)[2017~2022]  
   - メッセージに応じた太ももの画像を送信するLINEのbot  
-  - ~~追加は[こちら](https://line.me/R/ti/p/%40hdi2947s)~~
 - [音ゲーの譜面画像生成Webアプリ](https://github.com/PurplePalette/sekai-sus-2-img)[2021~2022]
 - [高専ロボコン2018年で使用したテーブルの位置の把握と機械学習によるペットボトルの状態判定](https://github.com/k0tayan/PathPlanning)[2018]
 - [LINEのデコ文字変換ライブラリ](https://github.com/k0tayan/LineEmoji)[2018]
+
+## Security Contest
+- 2020年:KOSENセキュリティコンテスト2020 4位(チーム戦)
 
 ## Robocon
 高専ロボコンに合計3回出場  
