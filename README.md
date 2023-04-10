@@ -24,11 +24,8 @@
 - iOS向け脱獄Tweakの開発  
 
 ## Project
-- [ふとももbot(Futomomo bot)](https://github.com/k0tayan/futomomo-bot)[2017~2022]  
-  - メッセージに応じた太ももの画像を送信するLINEのbot  
 - [音ゲーの譜面画像生成Webアプリ](https://github.com/PurplePalette/sekai-sus-2-img)[2021~2022]
 - [高専ロボコン2018年で使用したテーブルの位置の把握と機械学習によるペットボトルの状態判定](https://github.com/k0tayan/PathPlanning)[2018]
-- [LINEのデコ文字変換ライブラリ](https://github.com/k0tayan/LineEmoji)[2018]
 
 ## Security Contest
 - 2020年:KOSENセキュリティコンテスト2020 4位(チーム戦)
