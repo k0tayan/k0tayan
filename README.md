@@ -10,7 +10,7 @@
 
 ## Skill
 - 高専ロボコン程度のロボットの制御プログラム及び回路の開発
-  - C++・MicroPythonを用いたマイコンを用いた工作(Arduino, Mbed, ESP32, STM32) 
+  - C++・MicroPythonを用いたマイコンの制御プログラムの開発(Arduino, Mbed, ESP32, STM32) 
   - 3輪オムニ、4輪オムニ、4輪独立ステア
   - フィードバック制御
   - OpenCVを用いた画像処理 
