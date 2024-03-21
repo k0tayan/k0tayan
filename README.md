@@ -1,5 +1,5 @@
 # k0tayan(こたやん)
-Robotics, Iot, Web, Security
+Robotics, IoT, Web, Security
 
 ## Links
 - [Blog](https://www.kotayan.xyz/)  
